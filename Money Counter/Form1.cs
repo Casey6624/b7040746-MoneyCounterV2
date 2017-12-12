@@ -59,6 +59,7 @@ namespace Money_Counter
             }
         }
 
+<<<<<<< HEAD
         // The code which adds an extra coin for each respective button 
         private void btnAdd1P_Click(object sender, EventArgs e)
         {
@@ -172,6 +173,8 @@ namespace Money_Counter
             lblNumOf2Quid.Text = "0";
 
         }
+=======
+>>>>>>> parent of 6b4860f... Code changes, add coins button
     }
 }
 

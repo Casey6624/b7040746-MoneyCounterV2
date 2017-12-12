@@ -218,6 +218,7 @@
             this.picture1P.Size = new System.Drawing.Size(54, 50);
             this.picture1P.TabIndex = 12;
             this.picture1P.TabStop = false;
+            this.picture1P.Click += new System.EventHandler(this.btnAdd1P_Click);
             // 
             // picture2P
             // 
@@ -227,6 +228,7 @@
             this.picture2P.Size = new System.Drawing.Size(54, 50);
             this.picture2P.TabIndex = 13;
             this.picture2P.TabStop = false;
+            this.picture2P.Click += new System.EventHandler(this.btnAdd2P_Click);
             // 
             // picture5P
             // 
@@ -236,6 +238,7 @@
             this.picture5P.Size = new System.Drawing.Size(54, 50);
             this.picture5P.TabIndex = 14;
             this.picture5P.TabStop = false;
+            this.picture5P.Click += new System.EventHandler(this.btnAdd5P_Click);
             // 
             // picture10P
             // 
@@ -245,6 +248,7 @@
             this.picture10P.Size = new System.Drawing.Size(54, 50);
             this.picture10P.TabIndex = 15;
             this.picture10P.TabStop = false;
+            this.picture10P.Click += new System.EventHandler(this.btnAdd10P_Click);
             // 
             // picture20P
             // 
@@ -254,6 +258,7 @@
             this.picture20P.Size = new System.Drawing.Size(54, 50);
             this.picture20P.TabIndex = 16;
             this.picture20P.TabStop = false;
+            this.picture20P.Click += new System.EventHandler(this.btnAdd20P_Click);
             // 
             // picture50P
             // 
@@ -263,6 +268,7 @@
             this.picture50P.Size = new System.Drawing.Size(54, 50);
             this.picture50P.TabIndex = 17;
             this.picture50P.TabStop = false;
+            this.picture50P.Click += new System.EventHandler(this.btnAdd50P_Click);
             // 
             // pictureQuid
             // 
@@ -272,6 +278,7 @@
             this.pictureQuid.Size = new System.Drawing.Size(54, 50);
             this.pictureQuid.TabIndex = 18;
             this.pictureQuid.TabStop = false;
+            this.pictureQuid.Click += new System.EventHandler(this.btnAddQuid_Click);
             // 
             // picture2Quid
             // 
@@ -281,6 +288,7 @@
             this.picture2Quid.Size = new System.Drawing.Size(54, 50);
             this.picture2Quid.TabIndex = 19;
             this.picture2Quid.TabStop = false;
+            this.picture2Quid.Click += new System.EventHandler(this.btnAdd2Quid_Click);
             // 
             // pictureBox1
             // 
