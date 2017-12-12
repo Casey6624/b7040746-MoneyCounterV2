@@ -38,7 +38,7 @@ namespace Money_Counter
             /* https://docs.microsoft.com/en-us/dotnet/standard/base-types/standard-numeric-format-strings
              used the Microsoft link above as a reference to format the total of P into 2 decimal pound format. E.g £2.50
              */
-            
+
             txtTotalValuePounds.Text = totalValuePounds.ToString("F");
         }
         // Total Credit Function which checks to see if a credit value has been entered and if so divides the total value of coins by this credit value.
@@ -154,8 +154,26 @@ namespace Money_Counter
             // The totalCredits method is called 
             totalCredits();
         }
+        private void btnReset_Click(object sender, EventArgs e)
+        {
+            // Resets the text boxes back to "0" string
+            txtTotalValueP.Text = "0";
+            txtTotalValuePounds.Text = "0";
+            txtCostPerCredit.Text = "0";
+            txtNumOfCredits.Text = "0";
+            // Resets the labels back to "0" string
+            lblNumOf1P.Text = "0";
+            lblNumOf2P.Text = "0";
+            lblNumOf5P.Text = "0";
+            lblNumOf10P.Text = "0";
+            lblNumOf20P.Text = "0";
+            lblNumOf50P.Text = "0";
+            lblNumOfQuid.Text = "0";
+            lblNumOf2Quid.Text = "0";
 
+        }
     }
 }
+
     
 

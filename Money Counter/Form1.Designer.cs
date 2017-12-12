@@ -138,6 +138,7 @@
             this.btnAdd1P.Size = new System.Drawing.Size(52, 50);
             this.btnAdd1P.TabIndex = 4;
             this.btnAdd1P.TabStop = false;
+            this.btnAdd1P.Click += new System.EventHandler(this.btnAdd1P_Click);
             // 
             // btnAdd2P
             // 
@@ -147,6 +148,7 @@
             this.btnAdd2P.Size = new System.Drawing.Size(52, 50);
             this.btnAdd2P.TabIndex = 5;
             this.btnAdd2P.TabStop = false;
+            this.btnAdd2P.Click += new System.EventHandler(this.btnAdd2P_Click);
             // 
             // btnAdd5P
             // 
@@ -156,6 +158,7 @@
             this.btnAdd5P.Size = new System.Drawing.Size(52, 50);
             this.btnAdd5P.TabIndex = 6;
             this.btnAdd5P.TabStop = false;
+            this.btnAdd5P.Click += new System.EventHandler(this.btnAdd5P_Click);
             // 
             // btnAdd10P
             // 
@@ -165,6 +168,7 @@
             this.btnAdd10P.Size = new System.Drawing.Size(52, 50);
             this.btnAdd10P.TabIndex = 7;
             this.btnAdd10P.TabStop = false;
+            this.btnAdd10P.Click += new System.EventHandler(this.btnAdd10P_Click);
             // 
             // btnAdd20P
             // 
@@ -174,6 +178,7 @@
             this.btnAdd20P.Size = new System.Drawing.Size(52, 50);
             this.btnAdd20P.TabIndex = 8;
             this.btnAdd20P.TabStop = false;
+            this.btnAdd20P.Click += new System.EventHandler(this.btnAdd20P_Click);
             // 
             // btnAdd50P
             // 
@@ -183,6 +188,7 @@
             this.btnAdd50P.Size = new System.Drawing.Size(52, 50);
             this.btnAdd50P.TabIndex = 9;
             this.btnAdd50P.TabStop = false;
+            this.btnAdd50P.Click += new System.EventHandler(this.btnAdd50P_Click);
             // 
             // btnAddQuid
             // 
@@ -192,6 +198,7 @@
             this.btnAddQuid.Size = new System.Drawing.Size(52, 50);
             this.btnAddQuid.TabIndex = 10;
             this.btnAddQuid.TabStop = false;
+            this.btnAddQuid.Click += new System.EventHandler(this.btnAddQuid_Click);
             // 
             // btnAdd2Quid
             // 
@@ -201,6 +208,7 @@
             this.btnAdd2Quid.Size = new System.Drawing.Size(52, 50);
             this.btnAdd2Quid.TabIndex = 11;
             this.btnAdd2Quid.TabStop = false;
+            this.btnAdd2Quid.Click += new System.EventHandler(this.btnAdd2Quid_Click);
             // 
             // picture1P
             // 
@@ -607,6 +615,7 @@
             this.btnReset.TabIndex = 64;
             this.btnReset.Text = "RESET";
             this.btnReset.UseVisualStyleBackColor = true;
+            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
             // label3
             // 

@@ -18,3 +18,13 @@ C:\Users\casey\source\repos\b7040746_MoneyCounterV2\Money Counter\obj\Debug\Mone
 C:\Users\casey\source\repos\b7040746_MoneyCounterV2\Money Counter\obj\Debug\Money Counter.csproj.CoreCompileInputs.cache
 C:\Users\casey\source\repos\b7040746_MoneyCounterV2\Money Counter\obj\Debug\Money Counter.exe
 C:\Users\casey\source\repos\b7040746_MoneyCounterV2\Money Counter\obj\Debug\Money Counter.pdb
+C:\Users\casey\Documents\GitHub\b7040746-MoneyCounterV2\Money Counter\bin\Debug\Money Counter.exe.config
+C:\Users\casey\Documents\GitHub\b7040746-MoneyCounterV2\Money Counter\bin\Debug\Money Counter.exe
+C:\Users\casey\Documents\GitHub\b7040746-MoneyCounterV2\Money Counter\bin\Debug\Money Counter.pdb
+C:\Users\casey\Documents\GitHub\b7040746-MoneyCounterV2\Money Counter\obj\Debug\Money Counter.csprojResolveAssemblyReference.cache
+C:\Users\casey\Documents\GitHub\b7040746-MoneyCounterV2\Money Counter\obj\Debug\Money_Counter.Form1.resources
+C:\Users\casey\Documents\GitHub\b7040746-MoneyCounterV2\Money Counter\obj\Debug\Money_Counter.Properties.Resources.resources
+C:\Users\casey\Documents\GitHub\b7040746-MoneyCounterV2\Money Counter\obj\Debug\Money Counter.csproj.GenerateResource.Cache
+C:\Users\casey\Documents\GitHub\b7040746-MoneyCounterV2\Money Counter\obj\Debug\Money Counter.csproj.CoreCompileInputs.cache
+C:\Users\casey\Documents\GitHub\b7040746-MoneyCounterV2\Money Counter\obj\Debug\Money Counter.exe
+C:\Users\casey\Documents\GitHub\b7040746-MoneyCounterV2\Money Counter\obj\Debug\Money Counter.pdb
