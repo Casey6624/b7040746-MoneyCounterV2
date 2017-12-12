@@ -697,8 +697,11 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.coins);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Form1";
-            this.Text = "Money Counter";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Money Credit Counter v2.0";
             ((System.ComponentModel.ISupportInitialize)(this.btnAdd1P)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnAdd2P)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnAdd5P)).EndInit();
