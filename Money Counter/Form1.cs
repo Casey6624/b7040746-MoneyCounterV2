@@ -59,6 +59,102 @@ namespace Money_Counter
             }
         }
 
+        // The code which adds an extra coin for each respective button 
+        private void btnAdd1P_Click(object sender, EventArgs e)
+        {
+            if (txtCostPerCredit.Text != "0")
+            {
+                lblNumOf1P.Text = (int.Parse(lblNumOf1P.Text) + 1).ToString();
+            }
+            // The addCoins method is called
+            addCoins();
+            // The totalCredits method is called 
+            totalCredits();
+        }
+        private void btnAdd2P_Click(object sender, EventArgs e)
+        {
+            if (txtCostPerCredit.Text != "0")
+            {
+                lblNumOf2P.Text = (int.Parse(lblNumOf2P.Text) + 1).ToString();
+            }
+            // The addCoins method is called
+            addCoins();
+            // The totalCredits method is called 
+            totalCredits();
+        }
+
+        private void btnAdd5P_Click(object sender, EventArgs e)
+        {
+            if (txtCostPerCredit.Text != "0")
+            {
+                lblNumOf5P.Text = (int.Parse(lblNumOf5P.Text) + 1).ToString();
+            }
+            // The addCoins method is called
+            addCoins();
+            // The totalCredits method is called 
+            totalCredits();
+        }
+
+        private void btnAdd10P_Click(object sender, EventArgs e)
+        {
+            if (txtCostPerCredit.Text != "0")
+            {
+                lblNumOf10P.Text = (int.Parse(lblNumOf10P.Text) + 1).ToString();
+            }
+            // The addCoins method is called
+            addCoins();
+            // The totalCredits method is called 
+            totalCredits();
+        }
+
+        private void btnAdd20P_Click(object sender, EventArgs e)
+        {
+            if (txtCostPerCredit.Text != "0")
+            {
+                lblNumOf20P.Text = (int.Parse(lblNumOf20P.Text) + 1).ToString();
+            }
+            // The addCoins method is called
+            addCoins();
+            // The totalCredits method is called 
+            totalCredits();
+        }
+
+        private void btnAdd50P_Click(object sender, EventArgs e)
+        {
+            if (txtCostPerCredit.Text != "0")
+            {
+                lblNumOf50P.Text = (int.Parse(lblNumOf50P.Text) + 1).ToString();
+            }
+            // The addCoins method is called
+            addCoins();
+            // The totalCredits method is called 
+            totalCredits();
+        }
+
+        private void btnAddQuid_Click(object sender, EventArgs e)
+        {
+            if (txtCostPerCredit.Text != "0")
+            {
+                lblNumOfQuid.Text = (int.Parse(lblNumOfQuid.Text) + 1).ToString();
+            }
+            // The addCoins method is called
+            addCoins();
+            // The totalCredits method is called 
+            totalCredits();
+        }
+
+        private void btnAdd2Quid_Click(object sender, EventArgs e)
+        {
+            if (txtCostPerCredit.Text != "0")
+            {
+                lblNumOf2Quid.Text = (int.Parse(lblNumOf2Quid.Text) + 1).ToString();
+            }
+            // The addCoins method is called
+            addCoins();
+            // The totalCredits method is called 
+            totalCredits();
+        }
+
     }
 }
     
