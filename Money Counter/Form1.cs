@@ -18,8 +18,6 @@ namespace Money_Counter
             InitializeComponent();
         }
 
-        
-
         // Function which "refreshes" the total each time a button is clicked. This is called on every add coin button.
         private void addCoins()
         {
@@ -42,6 +40,23 @@ namespace Money_Counter
              */
             
             txtTotalValuePounds.Text = totalValuePounds.ToString("F");
+        }
+        // Total Credit Function which checks to see if a credit value has been entered and if so divides the total value of coins by this credit value.
+        public void totalCredits()
+        {
+            int creditTotal = 0;
+            int creditValue = Convert.ToInt16(txtCostPerCredit.Text);
+            // Validates whether the credit cost is 0 or if it has been changed
+            if (creditValue != 0)
+            {
+                creditTotal = Convert.ToInt16(txtTotalValueP.Text) / creditValue;
+                txtNumOfCredits.Text = creditTotal.ToString();
+            }
+            else
+            {
+                //prompt user to enter a cost of credit
+                MessageBox.Show("You have not set the Cost of a Credit.");
+            }
         }
 
     }
