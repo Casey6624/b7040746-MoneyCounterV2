@@ -1,0 +1,20 @@
+C:\Users\casey\source\repos\Money Counter\Money Counter\bin\Debug\Money Counter.exe.config
+C:\Users\casey\source\repos\Money Counter\Money Counter\bin\Debug\Money Counter.exe
+C:\Users\casey\source\repos\Money Counter\Money Counter\bin\Debug\Money Counter.pdb
+C:\Users\casey\source\repos\Money Counter\Money Counter\obj\Debug\Money Counter.csprojResolveAssemblyReference.cache
+C:\Users\casey\source\repos\Money Counter\Money Counter\obj\Debug\Money_Counter.Form1.resources
+C:\Users\casey\source\repos\Money Counter\Money Counter\obj\Debug\Money_Counter.Properties.Resources.resources
+C:\Users\casey\source\repos\Money Counter\Money Counter\obj\Debug\Money Counter.csproj.GenerateResource.Cache
+C:\Users\casey\source\repos\Money Counter\Money Counter\obj\Debug\Money Counter.csproj.CoreCompileInputs.cache
+C:\Users\casey\source\repos\Money Counter\Money Counter\obj\Debug\Money Counter.exe
+C:\Users\casey\source\repos\Money Counter\Money Counter\obj\Debug\Money Counter.pdb
+C:\Users\casey\source\repos\b7040746_MoneyCounterV2\Money Counter\bin\Debug\Money Counter.exe.config
+C:\Users\casey\source\repos\b7040746_MoneyCounterV2\Money Counter\bin\Debug\Money Counter.exe
+C:\Users\casey\source\repos\b7040746_MoneyCounterV2\Money Counter\bin\Debug\Money Counter.pdb
+C:\Users\casey\source\repos\b7040746_MoneyCounterV2\Money Counter\obj\Debug\Money Counter.csprojResolveAssemblyReference.cache
+C:\Users\casey\source\repos\b7040746_MoneyCounterV2\Money Counter\obj\Debug\Money_Counter.Form1.resources
+C:\Users\casey\source\repos\b7040746_MoneyCounterV2\Money Counter\obj\Debug\Money_Counter.Properties.Resources.resources
+C:\Users\casey\source\repos\b7040746_MoneyCounterV2\Money Counter\obj\Debug\Money Counter.csproj.GenerateResource.Cache
+C:\Users\casey\source\repos\b7040746_MoneyCounterV2\Money Counter\obj\Debug\Money Counter.csproj.CoreCompileInputs.cache
+C:\Users\casey\source\repos\b7040746_MoneyCounterV2\Money Counter\obj\Debug\Money Counter.exe
+C:\Users\casey\source\repos\b7040746_MoneyCounterV2\Money Counter\obj\Debug\Money Counter.pdb
